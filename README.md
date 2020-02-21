@@ -192,7 +192,7 @@ To open Matlab we simply write:
 
 And everything else is just as we practice in our local machine. Matlab will open and we can run our code. Inside Matlab the `cd` command works. If your are not in the SkillShare folder, lets move there.
 
-`cs SkillShare`
+`cd SkillShare`
 
 Type `ls` to see the files. We can now run our Matlab script, by typing the name `matlabScript`. Quit Matlab by typing `quit`.
 
