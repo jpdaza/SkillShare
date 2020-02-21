@@ -7,6 +7,7 @@ Many computers connected together that will work for you. Well will explore how 
 * **Sherlock** (Intended for Research work): It is available to all students, as long as a Faculty or PI answers to an email that asks them if you are doing research with them, they will give you an account. It is free to use, Faculty or PI can pay to use more resources . You need to request an account to use it.
 * **CEES** (School cluster): Depending on your group you might have access to it. It is not free research groups pay for it. That is why some groups use Sherlock instead. However, it has Tool Computers available to all students.
 * **FarmShare** This cluster is available to all students, for class work mainly.
+<img src="Clusters.jpeg" alt="Terminal" width="700"/>
 
 ## What you will learn:
 * **UNIX**: All interaction with the cluster is based on text, if you want to use a program you write the name and hit enter.
